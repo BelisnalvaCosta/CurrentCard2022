@@ -1,0 +1,50 @@
+#card{
+    background-color:rgb(226, 43, 43) ;
+    width: 400px;
+    height: 590px;
+    border-radius: 5%;
+    margin-left: 400px;
+}
+
+#picture{
+    width: 200px;
+    height: 250px;
+    border-radius: 5%;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+
+#info{
+    background-color: aqua;
+    margin: 20px;
+    border-radius: 5%;
+}
+
+#info p{
+    padding-left: 50px;
+    padding-top: 5%;
+    padding: auto;
+}
+
+#techs{
+    width: 45px;
+    height: 45px;
+    margin-left: 25x;
+}
+
+#code{
+    padding-left: 60px;
+    padding: auto;
+}
+
+#cont{
+    width: 45px;
+    height: 45px;
+    margin-left: 25x;
+    padding: auto;
+}
+
+#contact{
+    padding-left: 60px;
+    padding: auto;
+}
