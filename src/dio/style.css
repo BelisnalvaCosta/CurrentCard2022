@@ -7,10 +7,10 @@
 }
 
 #picture{
-    width: 200px;
-    height: 250px;
+    width: auto;
+    height: 240px;
     border-radius: 5%;
-    margin-left: 90px;
+    margin-left: 80px;
     margin-top: 20px;
 }
 
